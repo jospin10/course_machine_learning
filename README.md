@@ -1,8 +1,22 @@
 # Cours de Machine Learning
 
-## Base de Numpy
+## Essentiel de Numpy
 
 Importation du module
 ```python
 import munpy as np
+```
+
+## BaEssentielse de Matplotlib
+
+Importation du module
+```python
+import matplotlib.pyplot as plt
+```
+
+## Essentiel de Scipy
+
+Importation du module
+```python
+import matplotlib.pyplot as plt
 ```
