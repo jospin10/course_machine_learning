@@ -7,7 +7,7 @@ Importation du module
 import munpy as np
 ```
 
-## BaEssentielse de Matplotlib
+## Essentiel de Matplotlib
 
 Importation du module
 ```python
