@@ -20,3 +20,17 @@ Importation du module
 ```python
 import matplotlib.pyplot as plt
 ```
+
+## Essentiel de pandas
+
+Importation du module
+```python
+import pandas as pd
+```
+
+## Essentiel de pandas
+
+Importation du module
+```python
+import seaborn as sns
+```
